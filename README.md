@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edzron
-- 👀 I’m interested in Programing, and Game Developement
+- 👀 I’m interested in Programing and Game Developement
 - 🌱 I’m currently learning basic of Computer Science
 - 📫 I'm reachable through my email : edzronjunis@gmail.com
 
